@@ -1,0 +1,150 @@
+
+Mods: {
+	KaiokenMod: {
+		Buffs: {
+			KaiokenBuff: {
+				DisplayName: Kaio-ken
+				Description: Mods.KaiokenMod.BuffDescription.KaiokenBuff
+			}
+		}
+
+		Items: {
+			EnlightenmentSymbol: {
+				DisplayName: 悟
+				Tooltip:
+					'''
+					"Maybe even a lower-class outcast can surpass an elite if he puts his mind to it!"
+					+ 100% Kaio-ken Mastery Gain.
+					+ 25% Strain Gain.
+					'''
+			}
+
+			WorldKingSymbol: {
+				DisplayName: 界王
+				Tooltip:
+					'''
+					"You still can't seem to deliver a good joke when the pressure's on."
+					+ 70% Chance to not gain Strain when using Kaio-ken.
+					'''
+			}
+
+			TLOWGi: {
+				DisplayName: The Lord of Worlds' Shirt
+				Tooltip: There's some hidden power here...
+			}
+
+			TLOWPants: {
+				DisplayName: The Lord of Worlds' Pants
+				Tooltip: There's some hidden power here...
+			}
+
+			AssassinsBelt: {
+				DisplayName: Assassin's Belt
+				Tooltip:
+					'''
+					"You showing your cards tells me that you're young."
+					+ 7% Dodge Chance while in Kaio-ken.
+					'''
+			}
+
+			ColorExplosion: {
+				DisplayName: Pride Trooper's Color Explosion
+				Tooltip:
+					'''
+					"Well Saiyan, you are a truly fascinating creature. However, your passion is expended. You have nothing more to offer."
+					+ 15% Crit Chance while in Kaio-ken.
+					'''
+			}
+
+			CyberneticEnhancements: {
+				DisplayName: Cybernetic Enhancements
+				Tooltip:
+					'''
+					"Not that you merit the attention, but I am going to kill you myself. You should feel honored."
+					+ 5 Defense while in Kaio-ken.
+					'''
+			}
+
+			FruitOfMight: {
+				DisplayName: Fruit of the Tree of Might
+				Tooltip:
+					'''
+					"Kakarot, you are a disgrace to your people! Thousands of years of evolution, and you cast it aside for a multitude of weaklings!"
+					+ 100 Max Health while in Kaio-ken.
+					'''
+			}
+
+			HaloOfLight: {
+				DisplayName: Halo of Light
+				Tooltip:
+					'''
+					"Mortals, you must be expunged. A pure and perfect multiverse. Made clean by Zamasu's hand!"
+					+ 25 Base Generic Damage while in Kaio-ken.
+					'''
+			}
+
+			KaiokenEssence: {
+				DisplayName: Kaio-ken Essence
+				Tooltip:
+					'''
+					The pure essence of Kaio-ken.
+					+ 100% Kaio-ken Mastery Gain.
+					+ 70% Chance to not gain Strain when using Kaio-ken.
+					+ 10% Dodge Chance while in Kaio-ken.
+					+ 7.5% Damage Reduction while in Kaio-ken.
+					+ 10 Defense while in Kaio-ken.
+					+ 50 Max Mana while in Kaio-ken.
+					+ 150 Max Health while in Kaio-ken.
+					+ 50 Base Generic Damage while in Kaio-ken.
+					+ 25% Crit Chance while in Kaio-ken.
+					+ 15% Movement Speed.
+					+ Double tap to Dash.
+					+ Applies Ichor to enemies hit.
+					'''
+			}
+
+			RoyalTail: {
+				DisplayName: Royal Tail
+				Tooltip:
+					'''
+					"Now I'll show you the wall that you can never scale with "hard work" alone...!"
+					+ 5% Damage Reduction while in Kaio-ken.
+					'''
+			}
+
+			ScientistBrain: {
+				DisplayName: Scientist's Brain
+				Tooltip:
+					'''
+					"Goku... Once I've taken control of your body, I'll finally discard this ugly, metal shell. Then, I will fulfill my destiny, and become the greatest scientist the world has ever known!"
+					+ 25 Max Mana while in Kaio-ken.
+					'''
+			}
+
+			SuperSoul: {
+				DisplayName: Super Soul
+				Tooltip:
+					'''
+					The fused power of all Super essence.
+					+ 7% Dodge Chance while in Kaio-ken.
+					+ 25 Base Generic Damage while in Kaio-ken.
+					+ 15% Crit Chance while in Kaio-ken.
+					+ 10% Movement Speed.
+					'''
+			}
+
+			ZSoul: {
+				DisplayName: Z Soul
+				Tooltip:
+					'''
+					The fused power of all Z essence.
+					+ 5% Damage Reduction while in Kaio-ken.
+					+ 5 Defense while in Kaio-ken.
+					+ 25 Max Mana while in Kaio-ken.
+					+ 100 Max Health while in Kaio-ken.
+					+ Double tap to Dash.
+					'''
+			}
+		}
+	}
+}

@@ -1,0 +1,94 @@
+[quote=King Kai] "Oh... it's the Kaio-ken attack. It's like a massive upsurge of energy. Everything is heightened: power, speed, even hearing and vision improve dramatically. You sort of become a super-self. But it can only be sustained for a short time, so you have to get the job done quickly."[/quote]
+[h1]Kaio-Ken Mod[/h1]
+Kaio-ken is a technique invented by King Kai. It multiplies the user's ki for a "heartbeat" and turns their aura crimson - amplifying their power and speed to overcome previously stronger foes at the cost of extreme bodily recoil.
+
+[h2]1330 Studios Discord: https://discord.gg/1330studios[/h2]
+[h2]Terraria Ball: Super Discord: https://discord.gg/terrariaballsuper[/h2]
+[hr][/hr]
+
+
+[h2]Mechanics[/h2]
+By default, the keybinds are:
+H - Transform / Detransform
+
+Upon entering Kaio-ken. You lose all Health Regeneration and begin to generate Strain, representing your body pushing itself to its limits. 
+At first there will be no adverse effect, but once your Strain reaches a certain threshold, it begins to burn and you begin to take unavoidable damage each second. 
+The higher your Strain is, the higher your HP Loss is.
+
+As you use Kaioken you slowly generate Mastery. Mastery increases how much Strain you have and thus how long you can remain in Kaio-Ken. 
+Be aware, however, that your Mastery is capped based on which bosses you have successfully beaten in this world. 
+If you want to reach the full potential of Kaio-Ken, you have to seek and fight tougher bosses.
+
+Mastery also increases the bonus granted by Kaioken, as well as reducing the base HP drain before factoring in Strain calculations.
+[table]
+    [tr]
+        [th]Mastery %[/th]
+        [th]Defense Bonus[/th]
+        [th]Damage Reduction Bonus[/th]
+        [th]Speed Bonus[/th]
+        [th]Damage Bonus[/th]
+        [th]Base HP Drain[/th]
+    [/tr]
+    [tr]
+        [td]0% Mastery[/td]
+        [td]+10 DEF[/td]
+        [td]+1% DR[/td]
+        [td]+15% Speed[/td]
+        [td]+20% DMG[/td]
+        [td]3% HP Drain/s[/td]
+    [/tr]
+    [tr]
+        [td]25% Mastery[/td]
+        [td]+11 DEF[/td]
+        [td]+2% DR[/td]
+        [td]+25% Speed[/td]
+        [td]+40% DMG[/td]
+        [td]3% HP Drain/s[/td]
+    [/tr]
+    [tr]
+        [td]50% Mastery[/td]
+        [td]+12 DEF[/td]
+        [td]+3% DR[/td]
+        [td]+35% Speed[/td]
+        [td]+60% DMG[/td]
+        [td]2% HP Drain/s[/td]
+    [/tr]
+    [tr]
+        [td]75% Mastery[/td]
+        [td]+13 DEF[/td]
+        [td]+4% DR[/td]
+        [td]+45% Speed[/td]
+        [td]+80% DMG[/td]
+        [td]2% HP Drain/s[/td]
+    [/tr]
+    [tr]
+        [td]100% Mastery[/td]
+        [td]+15 DEF[/td]
+        [td]+5% DR[/td]
+        [td]+59% Speed[/td]
+        [td]+100% DMG[/td]
+        [td]1% HP Drain/s[/td]
+    [/tr]
+[/table]
+
+There is a total of 12 new accessories and 1 new armor set.
+
+If you have the Dragon Ball Terraria mod, you will not be able to mix this mod's Kaioken forms with Dragon Ball Terraria's Kaioken form.
+
+https://steamcommunity.com/workshop/filedetails/?id=2828604929
+
+[h2]Support Us[/h2]
+[url=https://ko-fi.com/kaioken]Ko-fi[/url]
+
+[h2]Credits[/h2]
+- Credits to AttilaThePun for Commissioning this mod
+- Credits to Vyklade for helping out with the mod
+- Credits to Akira Toriyama for creating Dragon Ball
+- Credits to Neffyarious, Bullza, La Grey Zuliana, Sosuagwu17, Dominodalek, Damage3245, DragonEmeperor, and all the other administrators on the Dragon Ball Fandom 
+- Credits to Relogic for making Terraria
+- Credits to the TML Team for making tModLoader
+- Credits to all the wonderful people in the Terraria Ball Super discord server for helping this project realize its potential
+
+Disclaimer:
+Dragon Ball, Dragon Ball Z, Dragon Ball GT, and Dragon Ball Super are all owned by Funimation, Toei Animation, Shueisha, and Akira Toriyama.
+Please support the official releases.

@@ -1,0 +1,6 @@
+displayName = Kaio-ken
+author = KosmicDev
+version = 3.0.7
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, *.db, agreement_smiley_face.png
+includePDB = true
+includeSource = true
